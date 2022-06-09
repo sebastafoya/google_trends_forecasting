@@ -6,3 +6,7 @@ statsmodels
 scipy
 lightgbm
 openpyxl
+pytrends
+pmdarima
+prophet
+bayesian-optimization
